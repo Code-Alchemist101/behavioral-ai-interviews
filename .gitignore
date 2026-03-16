@@ -1,0 +1,15 @@
+# Existing Repositories
+CodeGRITS/
+CodeWatcher/
+Developer-Archetype-Dataset/
+coderec_programming_states.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+/tmp/
+
+# OS Files
+.DS_Store
+Thumbs.db
